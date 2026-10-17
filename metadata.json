@@ -1,0 +1,6 @@
+{
+  "name": "VYBE — Editorial Luxury Streetwear",
+  "description": "Monolithic luxury streetwear catalog, limited drop campaigns, lookbooks, wishlist, and bag management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
